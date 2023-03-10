@@ -1,0 +1,6 @@
+bokeh: 2.4.3,
+pywebio: 1.7.2,
+pandas,
+pathlib,
+xml.etree.ElementTree,
+requests
